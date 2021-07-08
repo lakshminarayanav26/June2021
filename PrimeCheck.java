@@ -5,7 +5,7 @@ public class PrimeCheck {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int input = 13;
+		int input = 20;
 		
 		int Count = 0;
 		
